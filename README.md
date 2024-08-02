@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**iiamankumar/iiamankumar is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
+**iiamankumar/iiamankumar is a ✨ _special_ ✨ repository because its made by me.**
 
 **Here are some ideas to get you started:**
 
