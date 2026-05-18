@@ -10,79 +10,41 @@
 
 - 🤝 I'm looking for help with **System scalability, backend optimization, and production-grade software architecture.**
 
-- 🏆 **Achievements:** Winner at **4 National Hackathons**, **2× International World Robotics Championship Winner**, and **Finalist in 7+ National Hackathons**.
+- 🏆 **Achievements:** **Winner at 4 National Hackathons**, **2× International World Robotics Championship Winner**, and **Finalist in 7+ National Hackathons.**
 
 - 🎯 **Open to:** **Software Engineering Internships**, **SDE roles**, and **developer opportunities**.
 
 - 💬 Ask me about **Software development, full-stack engineering, backend systems, APIs, and scalable applications.**
 
-- 📫 How to reach me: **Email: amannkrmishraa@gmail.com**
+- 📫 How to reach me **Email: amannkrmishraa@gmail.com | LinkedIn: linkedin.com/in/iiaman-kumar**
 
-- 👨‍💻 All of my projects are available at **https://aman-kumar.in**
+- 👨‍💻 All of my projects are available at **[https://aman-kumar.in](https://aman-kumar.in)**
 
----
-
-## 🌐 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/iiamankumar" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/iiaman-kumar" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://www.instagram.com/codewithamann" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
+<a href="https://github.com/iiamankumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="iiamankumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iiaman-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iiaman-kumar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/codewithamann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithamann" height="30" width="40" /></a>
 </p>
 
----
-
-## 💻 Tech Stack
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" />
-  <img src="https://skillicons.dev/icons?i=streamlit" height="40" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iiamankumar&show_icons=true&theme=tokyonight" height="180em" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iiamankumar&theme=tokyonight" height="180em" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiamankumar&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-## 🚀 Portfolio
-
-🔗 https://aman-kumar.in
